@@ -29,7 +29,7 @@ void replacingsynonyms(char**& dictionary, int size, char*& useCases1, char**& s
  
     for (int i = 0; useCases1[i] != '\0'; i++)
     {
-        if (useCases1[i] != ' ' && useCases1[i]!='\0')
+        if (useCases1[i] != ' ' && useCases1[i] != '\0')
         {
             temp[tempindex++] = useCases1[i];
         }
