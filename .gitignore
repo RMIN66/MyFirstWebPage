@@ -1,0 +1,9 @@
+# Compiled binaries
+synonyms
+*.o
+*.exe
+
+# Editor files
+*.swp
+*.swo
+*~
